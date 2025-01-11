@@ -37,7 +37,7 @@ const addProduct = () => {
         <button>Envoyer</button>
       </div>
     </form>
-    {{ newProduct }}
+    
   </main>
 </template>
 
